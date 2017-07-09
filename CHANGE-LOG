@@ -1,0 +1,12 @@
+CHANGELOG
+========================================
+https://github.com/zollty-org/zollty-dbk
+
+Since 2013-11-26
+-----------------------------------------------------
+an independent lightweight JDBC module, repackge of Spring JDBC 3.2.x version.
+
+Changes in version 3.2.18         (2017-07-09)
+-----------------------------------------------------
+keep synchronization with Spring JDBC version 3.2.18.
+
